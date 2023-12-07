@@ -1,7 +1,39 @@
-흥청망청 놀다가 완벽한 앱 개발자가 되기 위해서..
+보잘 것 없는 앱 개발자에서 완벽한 앱 개발자가 되기 위해서 !
 <details>
 <summary>
 내가 할 수 있는 것
 </summary>
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
+<div align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-FF9E0F?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+</div>
 </details>
+
+<details>
+<summary>
+공부하는 중인 것
+</summary>
+<div align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
+	<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
+</div>
+</details>
+
+<details>
+<summary>
+다음에 공부할 것
+</summary>
+<div align="left">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+</div>
+</details>
+
+
+###### ~~하찮고 작은 내 블로그~~
+<div align="left">
+  <img src="https://img.shields.io/badge/blogger-FF5722?style=flat&logo=blogger&logoColor=white" />  
+</div>
+
+
