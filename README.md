@@ -30,10 +30,3 @@
 </div>
 </details>
 
-
-###### ~~하찮고 작은 내 블로그~~
-<div align="left">
-  <img src="https://img.shields.io/badge/blogger-FF5722?style=flat&logo=blogger&logoColor=white" />  
-</div>
-
-
