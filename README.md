@@ -2,11 +2,14 @@
 <summary>
 내가 할 수 있는 것
 </summary>
+<!--https://img.shields.io/badge/any_text-you_like-blue-->
+<!--https://img.shields.io/badge/just%20the%20message-8A2BE2-->
+  
 <div align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-green">
+  <img src="https://img.shields.io/badge/Java-red">
+  <img src="https://img.shields.io/badge/Spring-green">
+  <img src="https://img.shields.io/badge/SQL-black">
 </div>
 </details>
 
@@ -15,8 +18,8 @@
 공부하는 중인 것
 </summary>
 <div align="left">
-  <img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-black">
-  <img alt="javaScript" src="https://img.shields.io/badge/JavaScript-black">
+  <img src="https://img.shields.io/badge/Spring_Boot-green">
+  <img src="https://img.shields.io/badge/JavaScript-orange">
 </div>
 </details>
 
@@ -25,9 +28,10 @@
 다음에 공부할 것
 </summary>
 <div align="left">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-green">
+  <img src="https://img.shields.io/badge/Flutter-blue" />
+  <img src="https://img.shields.io/badge/Android-green">
+  <img src="https://img.shields.io/badge/Kotilin-black">
 </div>
 </details>
 
