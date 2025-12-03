@@ -20,6 +20,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-green">
   <img src="https://img.shields.io/badge/JavaScript-orange">
+  <img src="https://img.shields.io/badge/React-green">
 </div>
 </details>
 
@@ -28,7 +29,6 @@
 다음에 공부할 것
 </summary>
 <div align="left">
-  <img src="https://img.shields.io/badge/React-green">
   <img src="https://img.shields.io/badge/Flutter-blue" />
   <img src="https://img.shields.io/badge/Android-green">
   <img src="https://img.shields.io/badge/Kotilin-black">
