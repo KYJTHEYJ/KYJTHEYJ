@@ -42,7 +42,7 @@
 </summary>
 <div align="left">
   <img src="https://img.shields.io/badge/Kafka-silver">
-  <img src="https://img.shields.io/badge/Radis-red">
+  <img src="https://img.shields.io/badge/Redis-red">
   <img src="https://img.shields.io/badge/Flutter-blue">
   <img src="https://img.shields.io/badge/Android-green">
   <img src="https://img.shields.io/badge/Kotilin-black">
