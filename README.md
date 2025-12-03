@@ -6,10 +6,22 @@
 <!--https://img.shields.io/badge/just%20the%20message-8A2BE2-->
   
 <div align="left">
-  <img src="https://img.shields.io/badge/Android-green">
   <img src="https://img.shields.io/badge/Java-red">
   <img src="https://img.shields.io/badge/Spring-green">
   <img src="https://img.shields.io/badge/SQL-black">
+</div>
+</details>
+
+<details>
+<summary>
+할 수는 있지만 미흡한 것
+</summary>
+<!--https://img.shields.io/badge/any_text-you_like-blue-->
+<!--https://img.shields.io/badge/just%20the%20message-8A2BE2-->
+  
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-orange">
+  <img src="https://img.shields.io/badge/Android-green">
 </div>
 </details>
 
@@ -29,7 +41,9 @@
 다음에 공부할 것
 </summary>
 <div align="left">
-  <img src="https://img.shields.io/badge/Flutter-blue" />
+  <img src="https://img.shields.io/badge/Kafka-silver">
+  <img src="https://img.shields.io/badge/Radis-red">
+  <img src="https://img.shields.io/badge/Flutter-blue">
   <img src="https://img.shields.io/badge/Android-green">
   <img src="https://img.shields.io/badge/Kotilin-black">
 </div>
