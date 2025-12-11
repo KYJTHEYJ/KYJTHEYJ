@@ -53,7 +53,7 @@
 </summary>
 <div align="left">
   <img src="https://img.shields.io/badge/Rust-gray">
-  <img src="https://img.shields.io/badge/C-yellow">
+  <img src="https://img.shields.io/badge/C 기억 되살리기-yellow">
   <img src="https://img.shields.io/badge/C++-yellow">
 </div>
 </details>
