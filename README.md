@@ -20,6 +20,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-orange">
   <img src="https://img.shields.io/badge/Android-green">
+  <img src="https://img.shields.io/badge/JPA-gray">
+  <img src="https://img.shields.io/badge/QueryDSL-gray">
 </div>
 </details>
 
