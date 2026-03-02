@@ -32,6 +32,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-green">
   <img src="https://img.shields.io/badge/JavaScript-orange">
+  <img src="https://img.shields.io/badge/Redis-red">
   <img src="https://img.shields.io/badge/React-green">
 </div>
 </details>
@@ -42,7 +43,6 @@
 </summary>
 <div align="left">
   <img src="https://img.shields.io/badge/Kafka-silver">
-  <img src="https://img.shields.io/badge/Redis-red">
   <img src="https://img.shields.io/badge/Kotilin-black">
   <img src="https://img.shields.io/badge/Android-green">
   <img src="https://img.shields.io/badge/Flutter-blue">
